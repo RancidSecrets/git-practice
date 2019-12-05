@@ -1,3 +1,4 @@
 Name: Amy
 Age: 21
 Favorite Color: Green
+Miau: true
